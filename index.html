@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inferno — An Illustrated Edition of Dante's Divine Comedy</title>
+  <meta name="description" content="Read Dante's Inferno in Italian and English side by side, illuminated by the paintings of Doré, Blake, Botticelli, Delacroix and others, linked line by line.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;800&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="embers" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a href="#" class="brand" id="brand-link"><span class="brand-mark">✦</span> Inferno</a>
+    <nav class="topnav">
+      <a href="#" id="nav-home">Contents</a>
+      <a href="#gallery" id="nav-gallery">Gallery</a>
+      <div class="lang-toggle" role="group" aria-label="Language">
+        <button id="lang-both" data-lang="both" class="active">IT · EN</button>
+        <button id="lang-en" data-lang="en">EN</button>
+        <button id="lang-it" data-lang="it">IT</button>
+      </div>
+    </nav>
+  </header>
+
+  <main id="app">
+    <!-- Home -->
+    <section id="view-home" class="view">
+      <div class="hero">
+        <p class="eyebrow">Dante Alighieri · La Divina Commedia</p>
+        <h1 class="hero-title">Inferno</h1>
+        <p class="hero-quote"><em>Lasciate ogne speranza, voi ch'intrate</em><br><span>All hope abandon, ye who enter in!</span></p>
+        <p class="hero-sub">Thirty-four cantos in the original Italian and Longfellow's translation, illuminated by six centuries of painters. Hover over a glowing line to glimpse its painting; click to step inside it.</p>
+        <a href="#canto-1" class="btn-primary" id="begin-btn">Begin the descent</a>
+      </div>
+      <h2 class="section-title">The Cantos</h2>
+      <ol class="toc" id="toc"></ol>
+    </section>
+
+    <!-- Reader -->
+    <section id="view-canto" class="view" hidden>
+      <aside class="sidebar" id="sidebar"></aside>
+      <article class="reader">
+        <header class="canto-head">
+          <p class="eyebrow" id="canto-eyebrow"></p>
+          <h2 class="canto-title" id="canto-title"></h2>
+          <p class="canto-desc" id="canto-desc"></p>
+          <div class="canto-strip" id="canto-strip"></div>
+        </header>
+        <div class="verses" id="verses"></div>
+        <nav class="pager">
+          <a id="prev-canto" class="pager-btn">← Previous</a>
+          <a id="next-canto" class="pager-btn">Next →</a>
+        </nav>
+      </article>
+    </section>
+
+    <!-- Gallery -->
+    <section id="view-gallery" class="view" hidden>
+      <h2 class="section-title">Gallery of the Inferno</h2>
+      <div class="filters" id="filters"></div>
+      <div class="gallery" id="gallery"></div>
+    </section>
+  </main>
+
+  <!-- Hover preview -->
+  <div class="preview" id="preview" aria-hidden="true">
+    <img id="preview-img" alt="">
+    <div class="preview-cap"><strong id="preview-title"></strong><span id="preview-artist"></span></div>
+  </div>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-labelledby="lb-title" hidden>
+    <button class="lb-close" id="lb-close" aria-label="Close">×</button>
+    <button class="lb-nav lb-prev" id="lb-prev" aria-label="Previous painting">‹</button>
+    <figure class="lb-figure">
+      <div class="lb-imgwrap"><img id="lb-img" alt=""></div>
+      <figcaption class="lb-info">
+        <p class="eyebrow" id="lb-ref"></p>
+        <h3 id="lb-title"></h3>
+        <dl>
+          <dt>Artist</dt><dd id="lb-artist"></dd>
+          <dt>Date</dt><dd id="lb-date"></dd>
+          <dt class="lb-med">Source note</dt><dd class="lb-med" id="lb-medium"></dd>
+          <dt class="lb-loc" hidden>Collection</dt><dd class="lb-loc" id="lb-location" hidden></dd>
+        </dl>
+        <blockquote id="lb-verse"></blockquote>
+        <a id="lb-source" target="_blank" rel="noopener">View on Wikimedia Commons ↗</a>
+      </figcaption>
+    </figure>
+    <button class="lb-nav lb-next" id="lb-next" aria-label="Next painting">›</button>
+  </div>
+
+  <footer class="footer">
+    Text: Dante Alighieri (Italian) and H. W. Longfellow's translation (1867), via Project Gutenberg. Images: public-domain works via Wikimedia Commons.
+  </footer>
+
+  <script src="data/inferno.js"></script>
+  <script src="data/paintings.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

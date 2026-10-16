@@ -1,0 +1,83 @@
+OK   C1 1-3 The Dark Wood | Gustave Doré | Originally 1857 | Public domain | images/paintings/p1.jpg
+OK   C1 31-36 The Panther | Gustave Doré | Originally 1857 | Public domain | images/paintings/p2.jpg
+OK   C1 31-54 Dante Running from the Three Beasts | William Blake | between 1824 and 1827 | Public domain | images/paintings/p3.jpg
+OK   C1 44-48 The Lion | Gustave Doré | Originally 1857 | Public domain | images/paintings/p4.jpg
+OK   C1 69-71 Dante Meets Virgil | Gustave Doré | Originally 1857 | Public domain | images/paintings/p5.jpg
+OK   C1 133-136 Then he moved on, and I behind him followed | Gustave Doré | Originally 1857 | Public domain | images/paintings/p6.jpg
+OK   C2 1-6 Day was departing | Gustave Doré | Originally 1857 | Public domain | images/paintings/p7.jpg
+OK   C2 52-74 Beatrice | Gustave Doré | Originally 1857 | Public domain | images/paintings/p8.jpg
+OK   C3 1-9 The Gate of Hell | Gustave Doré | Originally 1857 | Public domain | images/paintings/p9.jpg
+OK   C3 1-9 The Inscription over the Gate | William Blake | between 1824 and 1827 | Public domain | images/paintings/p10.jpg
+WARN C3 canto The Map of Hell (La mappa dell'Inferno) | Sandro Botticelli | between 1480 and 1490 | Public domain | images/paintings/p11.jpg  <- no line range
+OK   C3 94-96 Charon, the Ferryman | Gustave Doré | Originally 1857 | Public domain | images/paintings/p12.jpg
+OK   C3 109-117 Charon Herds the Sinners onto his Boat | Gustave Doré | 1857 | Public domain | images/paintings/p13.jpg
+WARN C3 118-120 The Doomed Souls Cross the Acheron | Gustave Doré |  | Public domain | images/paintings/p14.jpg  <- no date in source
+OK   C4 25-30 Limbo – The Virtuous Pagans | Gustave Doré | Originally 1857 | Public domain | images/paintings/p15.jpg
+OK   C4 85-102 Dante among the Great Poets | Gustave Doré | Originally 1857 | Public domain | images/paintings/p16.jpg
+OK   C4 86-93 Homer and the Ancient Poets | William Blake | between 1824 and 1827 | Public domain | images/paintings/p17.jpg
+OK   C5 4-12 Minos | Gustave Doré | Originally 1857 | Public domain | images/paintings/p18.jpg
+OK   C5 31-45 The Hurricane of Souls | Gustave Doré | Originally 1857 | Public domain | images/paintings/p19.jpg
+OK   C5 73-78 Francesca da Rimini | Gustave Doré | Originally 1857 | Public domain | images/paintings/p20.jpg
+OK   C5 116-118 Francesca da Rimini II | Gustave Doré | Originally 1857 | Public domain | images/paintings/p21.jpg
+OK   C5 106-108 The Death of Francesca da Rimini and Paolo Malatesta | Alexandre Cabanel | 1870 | Public domain | images/paintings/p22.jpg
+OK   C5 137-139 Francesca and Paolo | Gustave Doré | Originally 1857 | Public domain | images/paintings/p23.jpg
+OK   C5 127-138 The Ghosts of Paolo and Francesca Appear to Dante and Virgil | Ary Scheffer | 1855 | Public domain | images/paintings/p24.jpg
+OK   C5 130-136 Paolo and Francesca da Rimini | Dante Gabriel Rossetti | 1855 | Public domain | images/paintings/p25.jpg
+OK   C5 136-138 Paolo and Francesca | Anselm Feuerbach | 1864 | Public domain | images/paintings/p26.jpg
+OK   C5 139-142 And fell, even as a dead body falls | Gustave Doré | Originally 1857 | Public domain | images/paintings/p27.jpg
+OK   C5 139-142 The Circle of the Lustful (The Whirlwind of Lovers) | William Blake | 1827 | CC0 | images/paintings/p28.jpg
+OK   C6 13-21 Cerberus | Gustave Doré | 1870 | Public domain | images/paintings/p29.jpg
+WARN C6 22-33 Cerberus | William Blake |  | Public domain | images/paintings/p30.jpg  <- no date in source
+WARN C7 1-15 Plutus | William Blake |  | Public domain | images/paintings/p31.jpg  <- no date in source
+OK   C7 25-35 Hoarders and Wasters | Gustave Doré | Originally 1857 | Public domain | images/paintings/p32.jpg
+WARN C7 109-116 The Wrathful in the Styx | Gustave Doré |  | Public domain | images/paintings/p33.jpg  <- no date in source
+WARN C8 13-24 Phlegyas | Gustave Doré |  | Public domain | images/paintings/p34.jpg  <- no date in source
+OK   C8 31-42 The Barque of Dante | Eugène Delacroix | 1822 | Public domain | images/paintings/p35.jpg
+WARN C8 82-90 The Demons Threaten Virgil | Gustave Doré |  | Public domain | images/paintings/p36.jpg  <- no date in source
+WARN C9 37-51 The Furies | Gustave Doré |  | Public domain | images/paintings/p37.jpg  <- no date in source
+WARN C10 31-42 Farinata degli Uberti | Gustave Doré |  | Public domain | images/paintings/p38.jpg  <- no date in source
+WARN C11 6-7 The Tomb of Pope Anastasius |  |  | Public domain | images/paintings/p39.jpg  <- no artist in source; no date in source
+WARN C12 11-25 The Minotaur | Gustave Doré |  | Public domain | images/paintings/p40.jpg  <- no date in source
+WARN C12 11-14 The Infamy of Crete |  |  | Public domain | images/paintings/p41.jpg  <- no artist in source; no date in source
+OK   C13 1-15 The Wood of the Self-Murderers: The Harpies and the Suicides | William Blake | between circa 1824 and circa 1827 | Public domain | images/paintings/p42.jpg
+WARN C13 10-15 The Harpies in the Wood of the Suicides | Gustave Doré |  | Public domain | images/paintings/p43.jpg  <- no date in source
+WARN C14 63-65 Capaneus | Gustave Doré |  | Public domain | images/paintings/p44.jpg  <- no date in source
+WARN C15 22-30 Brunetto Latini | Gustave Doré |  | Public domain | images/paintings/p45.jpg  <- no date in source
+WARN C17 1-27 Geryon |  |  | Public domain | images/paintings/p46.jpg  <- no artist in source; no date in source
+WARN C17 133-135 Into the Abyss on Geryon's Back | Gustave Doré |  | Public domain | images/paintings/p47.jpg  <- no date in source
+WARN C18 1-18 Malebolge (Inferno XVIII) | Sandro Botticelli |  | Public domain | images/paintings/p48.png  <- no date in source
+WARN C18 127-136 Thaïs | Gustave Doré |  | Public domain | images/paintings/p49.jpg  <- no date in source
+OK   C19 13-30 The Punishment of the Simonists | Gustave Doré | 1880 | Public domain | images/paintings/p50.jpg
+WARN C19 53-55 Pope Nicholas III | Gustave Doré |  | Public domain | images/paintings/p51.jpg  <- no date in source
+WARN C20 25-30 Virgil Reproves Dante's Pity | Gustave Doré |  | Public domain | images/paintings/p52.jpg  <- no date in source
+WARN C21 50-51 The Malebranche |  |  | Public domain | images/paintings/p53.jpg  <- no artist in source; no date in source
+WARN C22 118-132 Ciampolo the Navarrese | Gustave Doré |  | Public domain | images/paintings/p54.jpg  <- no date in source
+OK   C22 133-151 The Baffled Devils Fighting | William Blake | 1827 | CC0 | images/paintings/p55.jpg
+WARN C23 58-67 The Hypocrites | Gustave Doré |  | Public domain | images/paintings/p56.jpg  <- no date in source
+WARN C24 82-96 The Thieves and the Serpents | Gustave Doré |  | Public domain | images/paintings/p57.jpg  <- no date in source
+OK   C25 49-78 The Six-Footed Serpent Attacking Agnolo Brunelleschi | William Blake | 1827 | CC0 | images/paintings/p58.jpg
+WARN C25 64-78 Agnello Changing into a Serpent | Gustave Doré |  | Public domain | images/paintings/p59.jpg  <- no date in source
+WARN C26 52-63 Ulysses and Diomedes | Gustave Doré |  | Public domain | images/paintings/p60.jpg  <- no date in source
+WARN C28 22-31 Mahomet | Gustave Doré |  | Public domain | images/paintings/p61.jpg  <- no date in source
+WARN C28 134-136 Bertran de Born | Gustave Doré |  | Public domain | images/paintings/p62.jpg  <- no date in source
+OK   C29 40-51 The Pit of Disease: The Falsifiers | William Blake | circa July 1824 | Public domain | images/paintings/p63.jpg
+OK   C29 79-81 The Alchemists | Gustave Doré | 1892 | Public domain | images/paintings/p64.jpg
+OK   C30 22-33 Dante and Virgil | William-Adolphe Bouguereau | 1850 | Public domain | images/paintings/p65.jpg
+OK   C30 38-39 Master Adam and Sinon | Gustave Doré | 1892 | Public domain | images/paintings/p66.jpg
+OK   C31 31-45 The Titans | Gustave Doré | Originally 1857 | Public domain | images/paintings/p67.jpg
+WARN C31 130-145 Antaeus Lowering Dante and Virgil | Gustave Doré |  | Public domain | images/paintings/p68.jpg  <- no date in source
+OK   C31 130-145 Antaeus Setting Down Dante and Virgil | William Blake | between 1824 and 1827 | Public domain | images/paintings/p69.jpg
+OK   C32 20-22 The Traitors in the Ice of Cocytus | Gustave Doré | 1892 | Public domain | images/paintings/p70.jpg
+OK   C32 97-98 Bocca degli Abati | Gustave Doré | 1892 | Public domain | images/paintings/p71.jpg
+OK   C32 127-129 Ugolino and Ruggieri in the Ice | Gustave Doré | 1892 | Public domain | images/paintings/p72.jpg
+WARN C33 1-9 Ugolino and Archbishop Ruggieri | Gustave Doré |  | Public domain | images/paintings/p73.jpg  <- no date in source
+OK   C33 49-63 Count Ugolino and his Children in the Dungeon | Joshua Reynolds | 1770 - 1773 (exh at RA) | Public domain | images/paintings/p74.jpg
+OK   C33 87-89 Count Ugolino and his Sons in Prison | William Blake | 1826 | Public domain | images/paintings/p75.jpg
+OK   C34 20-21 Behold Dis | Gustave Doré | 1892 | Public domain | images/paintings/p76.jpg
+OK   C34 28-36 Lucifer, King of Hell | Gustave Doré | 1861–1868 (created) | Public domain | images/paintings/p77.jpg
+WARN C34 62-64 Lucifer | William Blake |  | Public domain | images/paintings/p78.jpg  <- no date in source
+CANTO-LEVEL C3 The Map of Hell (La mappa dell'Inferno) (no verifiable line range; shown for the whole canto)
+NO ARTIST C11 The Tomb of Pope Anastasius (artist not stated in source)
+NO ARTIST C12 The Infamy of Crete (artist not stated in source)
+NO ARTIST C17 Geryon (artist not stated in source)
+NO ARTIST C21 The Malebranche (artist not stated in source)

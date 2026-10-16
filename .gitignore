@@ -1,0 +1,7 @@
+# Exclude local paintings (~128 MB); downloaded on install via tools/download-assets.js
+images/paintings/
+
+# Node / OS
+node_modules/
+.DS_Store
+Thumbs.db

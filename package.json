@@ -1,0 +1,12 @@
+{
+  "name": "dante-inferno-illustrated",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An illustrated bilingual edition of Dante's Inferno (Italian & Longfellow translation) with public-domain artworks linked line by line.",
+  "scripts": {
+    "postinstall": "node tools/download-assets.js",
+    "download-paintings": "node tools/download-assets.js",
+    "verify": "node tools/verify-paintings.js",
+    "start": "npx -y serve -l 5173 ."
+  }
+}
