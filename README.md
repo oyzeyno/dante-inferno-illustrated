@@ -19,7 +19,7 @@ To keep the Git repository lightweight, the 78 high-resolution painting files (~
 ### 1. Clone the repository
 
 ```bash
-git clone oyzeyno/dante-inferno-illustrated
+git clone  https://github.com/oyzeyno/dante-inferno-illustrated.git
 cd dante-inferno-illustrated
 ```
 
