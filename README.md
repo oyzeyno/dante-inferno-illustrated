@@ -19,8 +19,8 @@ To keep the Git repository lightweight, the 78 high-resolution painting files (~
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone oyzeyno/dante-inferno-illustrated
+cd dante-inferno-illustrated
 ```
 
 ### 2. Download the paintings
