@@ -12,6 +12,8 @@ An interactive, bilingual web book of Dante Alighieri's *Inferno* featuring the 
 - **Artwork Gallery:** Browse all 78 illustrations across the *Inferno* and filter by artist.
 - **100% Local & Source-Verified:** Runs as a static site (vanilla HTML, CSS, and JavaScript) with no external API calls during reading. Every artist, date, license, and verse range is checked against its source record.
 
+![Alt text](/screenshots/canto5.png?raw=true "Canto V")
+
 ## Getting Started
 
 To keep the Git repository lightweight, the 78 high-resolution painting files (~128 MB) are excluded from Git and downloaded locally upon installation.
@@ -19,7 +21,7 @@ To keep the Git repository lightweight, the 78 high-resolution painting files (~
 ### 1. Clone the repository
 
 ```bash
-git clone  https://github.com/oyzeyno/dante-inferno-illustrated.git
+git clone https://github.com/oyzeyno/dante-inferno-illustrated.git
 cd dante-inferno-illustrated
 ```
 
